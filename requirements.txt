@@ -1,0 +1,10 @@
+factorio-draftsman
+matplotlib
+numpy
+pillow
+pyperclip
+sympy
+
+# binaryninja
+# Used by the reverse engineering scripts. Install the Binary Ninja Python API
+# from Binary Ninja itself; it is not distributed as a normal PyPI package.
